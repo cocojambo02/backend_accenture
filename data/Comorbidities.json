@@ -1,0 +1,250 @@
+[
+	{
+		"ID_Boala": "K75.4",
+		"Nume_Boala": "Autoimmune hepatitis"
+	},
+	{
+		"ID_Boala": "K75.81",
+		"Nume_Boala": "Nonalcoholic steatohepatitis (NASH)"
+	},
+	{
+		"ID_Boala": "Q33.4",
+		"Nume_Boala": "Congenital bronchiectasis"
+	},
+	{
+		"ID_Boala": "Z72.0",
+		"Nume_Boala": "Smoking"
+	},
+	{
+		"ID_Boala": "Z72.3",
+		"Nume_Boala": "Lack of physical exercise"
+	},
+	{
+		"ID_Boala": "Z79.5",
+		"Nume_Boala": "Steroids"
+	},
+	{
+		"ID_Boala": "Z79.899",
+		"Nume_Boala": "Immunosuppressive medications"
+	},
+	{
+		"ID_Boala": "A15",
+		"Nume_Boala": "Pneumoconiosis associated with tuberculosis"
+	},
+	{
+		"ID_Boala": "A16",
+		"Nume_Boala": "Respiratory tuberculosis"
+	},
+	{
+		"ID_Boala": "A17",
+		"Nume_Boala": "Tuberculosis of nervous system"
+	},
+	{
+		"ID_Boala": "A18",
+		"Nume_Boala": "Tuberculosis of other organs"
+	},
+	{
+		"ID_Boala": "A19",
+		"Nume_Boala": "Miliary tuberculosis"
+	},
+	{
+		"ID_Boala": "B20",
+		"Nume_Boala": "HIV"
+	},
+	{
+		"ID_Boala": "C",
+		"Nume_Boala": "Cancer"
+	},
+	{
+		"ID_Boala": "D80",
+		"Nume_Boala": "Immunodeficiency with predominantly antibody defects"
+	},
+	{
+		"ID_Boala": "D81",
+		"Nume_Boala": "Combined immunodeficiencies"
+	},
+	{
+		"ID_Boala": "D82",
+		"Nume_Boala": "Immunodeficiency associated with other major defects"
+	},
+	{
+		"ID_Boala": "D83",
+		"Nume_Boala": "Common variable immunodeficiency"
+	},
+	{
+		"ID_Boala": "D84",
+		"Nume_Boala": "Other immunodeficiencies"
+	},
+	{
+		"ID_Boala": "D86",
+		"Nume_Boala": "Sarcoidosis"
+	},
+	{
+		"ID_Boala": "D89",
+		"Nume_Boala": "Other disorders involving the immune mechanism, not elsewhere classified"
+	},
+	{
+		"ID_Boala": "E10",
+		"Nume_Boala": "Type 1 diabetes mellitus"
+	},
+	{
+		"ID_Boala": "E11",
+		"Nume_Boala": "Type 2 diabetes mellitus"
+	},
+	{
+		"ID_Boala": "E66",
+		"Nume_Boala": "Obesity"
+	},
+	{
+		"ID_Boala": "E84",
+		"Nume_Boala": "Cystic fibrosis"
+	},
+	{
+		"ID_Boala": "F02",
+		"Nume_Boala": "Dementia in other diseases classified elsewhere"
+	},
+	{
+		"ID_Boala": "F03",
+		"Nume_Boala": "Unspecified dementia"
+	},
+	{
+		"ID_Boala": "F70",
+		"Nume_Boala": "Mild intellectual disabilities"
+	},
+	{
+		"ID_Boala": "F71",
+		"Nume_Boala": "Moderate intellectual disabilities"
+	},
+	{
+		"ID_Boala": "F72",
+		"Nume_Boala": "Severe intellectual disabilities"
+	},
+	{
+		"ID_Boala": "F73",
+		"Nume_Boala": "Profound intellectual disabilities"
+	},
+	{
+		"ID_Boala": "F78",
+		"Nume_Boala": "Other intellectual disabilities"
+	},
+	{
+		"ID_Boala": "F79",
+		"Nume_Boala": "Unspecified intellectual disabilities"
+	},
+	{
+		"ID_Boala": "I25",
+		"Nume_Boala": "Coronary artery disease"
+	},
+	{
+		"ID_Boala": "I26",
+		"Nume_Boala": "Pulmonary embolism"
+	},
+	{
+		"ID_Boala": "I27",
+		"Nume_Boala": "Pulmonary hypertension"
+	},
+	{
+		"ID_Boala": "I42",
+		"Nume_Boala": "Cardiomyopathy"
+	},
+	{
+		"ID_Boala": "I50",
+		"Nume_Boala": "Heart Failure"
+	},
+	{
+		"ID_Boala": "I60",
+		"Nume_Boala": "Nontraumatic subarachnoid hemorrhage"
+	},
+	{
+		"ID_Boala": "I61",
+		"Nume_Boala": "Nontraumatic intracerebral hemorrhage"
+	},
+	{
+		"ID_Boala": "I62",
+		"Nume_Boala": "Other and unspecified nontraumatic intracranial hemorrhage"
+	},
+	{
+		"ID_Boala": "I63",
+		"Nume_Boala": "Cerebral infarction"
+	},
+	{
+		"ID_Boala": "I65",
+		"Nume_Boala": "Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction"
+	},
+	{
+		"ID_Boala": "I66",
+		"Nume_Boala": "Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction"
+	},
+	{
+		"ID_Boala": "I67",
+		"Nume_Boala": "Other cerebrovascular diseases"
+	},
+	{
+		"ID_Boala": "I68",
+		"Nume_Boala": "Cerebrovascular disorders in diseases classified elsewhere"
+	},
+	{
+		"ID_Boala": "I69",
+		"Nume_Boala": "Sequelae of cerebrovascular disease"
+	},
+	{
+		"ID_Boala": "J44",
+		"Nume_Boala": "Other chronic obstructive pulmonary disease"
+	},
+	{
+		"ID_Boala": "J47",
+		"Nume_Boala": "Bronchiectasis"
+	},
+	{
+		"ID_Boala": "J84",
+		"Nume_Boala": "Interstitial lung disease"
+	},
+	{
+		"ID_Boala": "K70",
+		"Nume_Boala": "Alcoholic liver disease"
+	},
+	{
+		"ID_Boala": "K74",
+		"Nume_Boala": "Fibrosis and cirrhosis of liver"
+	},
+	{
+		"ID_Boala": "N18",
+		"Nume_Boala": "Chronic kidney disease (CKD)"
+	},
+	{
+		"ID_Boala": "Q90",
+		"Nume_Boala": "Down syndrome"
+	},
+	{
+		"ID_Boala": "Z33",
+		"Nume_Boala": "Pregnant state"
+	},
+	{
+		"ID_Boala": "Z34",
+		"Nume_Boala": "Encounter for supervision of normal pregnancy"
+	},
+	{
+		"ID_Boala": "Z36",
+		"Nume_Boala": "Encounter for antenatal screening of mother"
+	},
+	{
+		"ID_Boala": "Z37",
+		"Nume_Boala": "Outcome of delivery"
+	},
+	{
+		"ID_Boala": "Z38",
+		"Nume_Boala": "Liveborn infants according to place of birth and type of delivery"
+	},
+	{
+		"ID_Boala": "Z39",
+		"Nume_Boala": "Encounter for maternal postpartum care and examination"
+	},
+	{
+		"ID_Boala": "Z3A",
+		"Nume_Boala": "Weeks of gestation"
+	},
+	{
+		"ID_Boala": "Z94",
+		"Nume_Boala": "Transplanted organ and tissue status"
+	}
+]

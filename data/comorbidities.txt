@@ -1,0 +1,62 @@
+K75.4, Autoimmune hepatitis
+K75.81, Nonalcoholic steatohepatitis (NASH)
+Q33.4, Congenital bronchiectasis
+Z72.0, Smoking
+Z72.3, Lack of physical exercise
+Z79.5, Steroids
+Z79.899, Immunosuppressive medications
+A15, Respiratory tuberculosis
+A16, Respiratory tuberculosis not confirmed bacteriologically or histologically
+A17, Tuberculosis of nervous system
+A18, Tuberculosis of other organs
+A19, Miliary tuberculosis
+B20, HIV
+C, Cancer
+D80, Immunodeficiency with predominantly antibody defects
+D81, Combined immunodeficiencies
+D82, Immunodeficiency associated with other major defects
+D83, Common variable immunodeficiency
+D84, Other immunodeficiencies
+D86, Sarcoidosis
+D89, Other disorders involving the immune mechanism not elsewhere classified
+E10, Type 1 diabetes mellitus
+E11, Type 2 diabetes mellitus
+E66, Obesity
+E84, Cystic fibrosis
+F02, Dementia in other diseases classified elsewhere
+F03, Unspecified dementia
+F70, Mild intellectual disabilities
+F71, Moderate intellectual disabilities
+F72, Severe intellectual disabilities
+F73, Profound intellectual disabilities
+F78, Other intellectual disabilities
+F79, Unspecified intellectual disabilities
+I25, Coronary artery disease
+I26, Pulmonary embolism
+I27, Pulmonary hypertension
+I42, Cardiomyopathies
+I50, Heart Failure
+I60, Nontraumatic subarachnoid hemorrhage
+I61, Nontraumatic intracerebral hemorrhage
+I62, Other and unspecified nontraumatic intracranial hemorrhage
+I63, Cerebral infarction
+I65, Occlusion and stenosis of precerebral arteries not resulting in cerebral infarction
+I66, Occlusion and stenosis of cerebral arteries not resulting in cerebral infarction
+I67, Other cerebrovascular diseases
+I68, Cerebrovascular disorders in diseases classified elsewhere
+I69, Sequelae of cerebrovascular disease
+J44, Other chronic obstructive pulmonary disease
+J47, Bronchiectasis
+J84, Interstitial lung disease
+K70, Alcoholic liver disease
+K74, Fibrosis and cirrhosis of liver
+N18, Chronic kidney disease (CKD)
+Q90, Down syndrome
+Z33, Pregnant state
+Z34, Encounter for supervision of normal pregnancy
+Z36, Encounter for antenatal screening of mother
+Z37, Outcome of delivery
+Z38, Liveborn infants according to place of birth and type of delivery
+Z39, Encounter for maternal postpartum care and examination
+Z3A, Weeks of gestation
+Z94, Transplanted organ and tissue status
