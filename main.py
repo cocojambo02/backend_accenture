@@ -2,7 +2,8 @@ from flask import Flask, request, jsonify
 import json
 import re
 
-from controller.Controller import predict_state
+from Repository.Repository import PacientRepository
+from controller.Controller import Controller
 from model.Model import Model
 from model.Pacient import Pacient
 
@@ -55,7 +56,7 @@ def get_comorbidities(text):
     return comorb_count_list
 
 @app.route('/predict', methods=['POST'])
-def predict(local_result_storage):
+def predict():
     """
     Converts the pacient string into a dataframe row
     Predicts it's outcome based on a Random Forest trained on 'dataset_processed_csv'
@@ -90,9 +91,7 @@ def predict(local_result_storage):
         pacient = Pacient(sex, varsta, tss, d_dimeri, leucocite, neutrophile, ckmb, ldh, ck, troponina, trombocite, nt_probn,
                 glicemie, urea, crp, feritina, forma_boala, lista_comorbiditati)
 
-        print(predict_state(pacient.to_df()))
-
-        return "1", 200
+        return F"Starea posibilă de externare a pacientului : {controller.predict_state(pacient.to_df())}" , 200
 
 @app.route('/get_comorbidities', methods=['GET'])
 def query_records():
@@ -103,4 +102,6 @@ def query_records():
 
 if __name__ == '__main__':
     # run app in debug mode on port 5000
+    repo = PacientRepository()
+    controller = Controller(repo)
     app.run(debug=True, port=5000)
