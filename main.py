@@ -1,10 +1,10 @@
-from flask import Flask, request
+from flask import Flask, request, jsonify
 import json
 import re
 
 from controller.Controller import predict_state
 from model.Model import Model
-from model.Pacient import comorbidities_to_array, Pacient
+from model.Pacient import Pacient
 
 app = Flask(__name__)
 
@@ -55,7 +55,7 @@ def get_comorbidities(text):
     return comorb_count_list
 
 @app.route('/predict', methods=['POST'])
-def predict():
+def predict(local_result_storage):
     """
     Converts the pacient string into a dataframe row
     Predicts it's outcome based on a Random Forest trained on 'dataset_processed_csv'
@@ -94,11 +94,13 @@ def predict():
 
         return "1", 200
 
-
+@app.route('/get_comorbidities', methods=['GET'])
+def query_records():
+    with open('C:\\personal\\AI\\backend\\data\\Comorbidities.json', 'r') as f:
+        data = f.read()
+        records = json.loads(data)
+        return jsonify(records)
 
 if __name__ == '__main__':
-    #build RF model class
-    Model()
-
     # run app in debug mode on port 5000
     app.run(debug=True, port=5000)
